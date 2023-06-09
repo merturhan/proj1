@@ -1,3 +1,5 @@
 export const environment = {
-  production: true
+  production: true,
+  title : "PROD",
+  words : "this is production mode"
 };
